@@ -10,13 +10,11 @@ const EzequielMenor = {
 ```
 
 You can find me 🌍:
-<div>
 - [Portfolio](https://ezequielmenor.es/)
-<div>
-[![Ropositorio Mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EzequielMenor&repo=Mi-Portfolio)](https://github.com/EzequielMenor/Mi-Porfolio)
-</div>
 - [LinkedIn](https://www.linkedin.com/in/ezequiel-menor-4a690027a/)
-</div>
+
+Rpositorys:
+[![Ropositorio Mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EzequielMenor&repo=Mi-Portfolio)](https://github.com/EzequielMenor/Mi-Porfolio)
 
 
 
