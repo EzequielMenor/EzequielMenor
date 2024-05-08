@@ -1,4 +1,7 @@
 ### Hi, I'm Ezequiel 👋👨‍💻
+<img align="right" alt="GIF" src="https://github.com/EzequielMenor/EzequielMenor/issues/3#issue-2284971745" />
+
+
 
 <!--![mia2](https://github.com/EzequielMenor/EzequielMenor/assets/69210721/1a370c73-fe6f-4079-8d67-165d74b0272e)-->
 
