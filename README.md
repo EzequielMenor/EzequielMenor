@@ -16,7 +16,7 @@ You can find me 🌍:
 Repositorys:
 
 <a href="https://github.com/EzequielMenor/Mi-Porfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EzequielMenor&repo=Mi-Portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EzequielMenor&repo=Mi-Portfolio&bg_color=0d1117" />
 </a>
 
 
