@@ -1,5 +1,16 @@
-### Hi, I'm Ezequiel 👋👨‍💻
-<img align="right" alt="GIF" src="https://github.com/EzequielMenor/EzequielMenor/issues/3#issue-2284971745" />
+## Hi, I'm Ezequiel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+<a href="https://www.linkedin.com/in/ezequiel-menor-4a690027a/">
+  <img align="left" alt="Ezequiel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="ezequielmenor.es">
+  <img align="left" alt="Ezequiel's Linkdein" width="22px" src="https://github.com/EzequielMenor/EzequielMenor/assets/69210721/492cc7b3-8e3a-48fc-befc-9bf80aafce54" />
+</a>
+<br />
+
+
+
+<img align="right" alt="GIF" src="https://github.com/EzequielMenor/EzequielMenor/blob/main/rick.gif" />
 
 
 
@@ -11,16 +22,7 @@ const EzequielMenor = {
   tools: [React, Astro]
 }
 ```
-
-You can find me 🌍:
-- [Portfolio](https://ezequielmenor.es/)
-- [LinkedIn](https://www.linkedin.com/in/ezequiel-menor-4a690027a/)
-
-Repositorys:
-
-<a href="https://github.com/EzequielMenor/Mi-Porfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EzequielMenor&repo=Mi-Portfolio&bg_color=0d1117" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMenor&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
 
