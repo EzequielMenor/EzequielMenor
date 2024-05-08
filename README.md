@@ -4,7 +4,7 @@
 
 ```js
 const EzequielMenor = {
-  code: [HTML, CSS, Javascript]
+  code: [HTML, CSS, Javascript],
   tools: [React, Astro]
 }
 ```
