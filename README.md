@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ezequiel-menor-4a690027a/">
   <img align="left" alt="Ezequiel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="ezequielmenor.es">
+<a href="https://www.ezequielmenor.es">
   <img align="left" alt="Ezequiel's Linkdein" width="22px" src="https://github.com/EzequielMenor/EzequielMenor/assets/69210721/492cc7b3-8e3a-48fc-befc-9bf80aafce54" />
 </a>
 <br />
