@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://github.com/EzequielMenor/EzequielMenor/blob/main/rick.gif" />
 
 ```js
-const Ezequiel Menor = {
+const EzequielMenor = {
   code: [HTML, CSS, Javascript],
   tools: [React, Astro],
   database: [MongoDB]
