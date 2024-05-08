@@ -1,6 +1,18 @@
 ### Hi, I'm Ezequiel 👋👨‍💻
 
-![mia2](https://github.com/EzequielMenor/EzequielMenor/assets/69210721/1a370c73-fe6f-4079-8d67-165d74b0272e)
+<!--![mia2](https://github.com/EzequielMenor/EzequielMenor/assets/69210721/1a370c73-fe6f-4079-8d67-165d74b0272e)-->
+
+```js
+const EzequielMenor = {
+  code: [HTML, CSS, Javascript]
+  tools: [React, Astro]
+}
+```
+
+You can find me 🌍:
+- [Portfolio](https://ezequielmenor.es/)
+- [LinkedIn](https://www.linkedin.com/in/ezequiel-menor-4a690027a/)
+
 
 
 <!--
