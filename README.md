@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ezequiel 👋👨‍💻
+
+![mia2](https://github.com/EzequielMenor/EzequielMenor/assets/69210721/1a370c73-fe6f-4079-8d67-165d74b0272e)
+
 
 <!--
 **EzequielMenor/EzequielMenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
