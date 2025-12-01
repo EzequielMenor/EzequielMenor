@@ -7,7 +7,7 @@
 
 ```js
 const EzequielMenor = {
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, Javascript, Java],
   tools: [React, Astro],
   database: [MongoDB]
 }
