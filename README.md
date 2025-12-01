@@ -12,4 +12,3 @@ const EzequielMenor = {
   database: [MongoDB]
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmenor)](https://github.com/anuraghazra/github-readme-stats)
